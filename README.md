@@ -10,7 +10,6 @@
 - 📱 Building **mobile applications** with React Native & Expo
 - 🖥️ Crafting **web applications** with Next.js
 - ⚡ Designing **PCBs** and playing with electronics
-- 🌱 Currently sharpening my skills for a tech internship
 - 📫 Reach me: Jackietf4@gmail.com
 
 ---
@@ -50,23 +49,22 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JakiEz&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakiEz&layout=compact&theme=tokyonight" alt="top langs" height="165"/>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=JakiEz&theme=tokyonight" alt="streak" height="165"/>
-</p>
+</p> -->
 
 ---
 
-### 🏆 Trophies
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JakiEz&theme=tokyonight&no-frame=true&column=7" alt="trophies"/>
-</p>
+</p> -->
 
 ---
 
