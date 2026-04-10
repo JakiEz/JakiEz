@@ -70,9 +70,9 @@
 
 ### 📌 Featured Projects
 <!-- Replace REPO_NAME with your actual repo names -->
-- 📱 **[Project Name](https://github.com/JakiEz/pikadYa)** — This is a mobile app for learning Thai herb 
-- 🖥️ **[Project Name](https://github.com/JakiEz/datalogajboard)** — This project is for datalogging data from an electric car motor inverter
-- ⚡ **[Project Name](https://github.com/JakiEz/REPO_NAME)** — short description
+- 📱 **[pikadYa](https://github.com/JakiEz/pikadYa)** — This is a mobile app for learning Thai herb 
+- 🖥️ **[datalogger](https://github.com/JakiEz/datalogajboard)** — This project is for datalogging data from an electric car motor inverter
+- ⚡ **[backend](https://github.com/JakiEz/webDatabase/tree/main)** — This is backend server code for an e-commerce project.
 
 ---
 
