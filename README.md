@@ -11,7 +11,7 @@
 - 🖥️ Crafting **web applications** with Next.js
 - ⚡ Designing **PCBs** and playing with electronics
 - 🌱 Currently sharpening my skills for a tech internship
-- 📫 Reach me: **your.email@example.com**
+- 📫 Reach me: Jackietf4@gmail.com
 
 ---
 
@@ -72,12 +72,12 @@
 
 ### 📌 Featured Projects
 <!-- Replace REPO_NAME with your actual repo names -->
-- 📱 **[Project Name](https://github.com/JakiEz/BMS)** — short description of what it does
-- 🖥️ **[Project Name](https://github.com/JakiEz/REPO_NAME)** — short description
+- 📱 **[Project Name](https://github.com/JakiEz/pikadYa)** — This is a mobile app for learning Thai herb 
+- 🖥️ **[Project Name](https://github.com/JakiEz/datalogajboard)** — This project is for datalogging data from an electric car motor inverter
 - ⚡ **[Project Name](https://github.com/JakiEz/REPO_NAME)** — short description
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JakiEz&style=flat-square&color=blue" alt="profile views"/>
-</p>
+</p> -->
